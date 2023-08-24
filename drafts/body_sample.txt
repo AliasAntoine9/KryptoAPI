@@ -1,0 +1,30 @@
+Closed positions
+
+{
+	"opentime_trigger_candle": "2023-07-20 14:30:00",
+	"opentime_buying_candle": "2023-07-20 14:45:00",
+	"buying_timestamp": "2023-07-20 14:47:24",
+	"sales_timestamp": "2023-07-23 21:42:53",
+	"buying_price": 0.2751,
+	"profit_target_in_percentage": 3,
+	"sales_price": "0.2836",
+	"bet": 50,
+	"crypto_quantity": 1176.47,
+	"currency_couple": "USDT/VET"
+}
+
+
+
+
+Opened positions
+
+{
+	"opentime_trigger_candle": "2023-07-20 14:30:00",
+	"opentime_buying_candle": "2023-07-20 14:45:00",
+	"buying_timestamp": "2023-07-20 14:47:24",
+	"buying_price": 0.2751,
+	"profit_target_in_percentage": 3,
+	"bet": 50,
+	"crypto_quantity": 1176.47,
+	"currency_couple": "USDT/VET"
+}

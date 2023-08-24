@@ -1,0 +1,1 @@
+"""This file should contain everything about errors raised by the API"""
